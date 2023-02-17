@@ -1,0 +1,29 @@
+{
+  "TermsOfServiceVersion": 1,
+  "TermsAgreedToWhen": "2023-02-17T19:55:30Z",
+  "IdClaims": [
+    {
+      "Claim": "t:green_footballs"
+    },
+    {
+      "Claim": "gh:greenfootballs"
+    },
+    {
+      "Claim": "post:green_footballs"
+    },
+    {
+      "Claim": "mdon:@green_footballs@mastodon.social"
+    }
+  ],
+  "IdDisclaims": null,
+  "Signature": {
+    "Authority": "https://whosum.com",
+    "PublicKey": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEApF0NC9C13limzP9H5\u002BcXoWEddOfjDdysecEWNhNxS3yCWdRJjsCpIWY3euUxIFWw9W9Zkbo1tx8YbnLVdCPd7qORelTZZR5I9IvQdsyyqZIeAuw4xk/VcK119Kme13cqhsjOtgCrdekjz5YEklZqXdZKclJMc2fqHjOfHl07lYXWmqx8FxCUjjGCkBcr4WZD/uvs0SXRACkXS01bP0Wbao1sHxyFoADHV5i8Yvg2o32Sy37DMMMOfjO8ZpqqwNKVEs04gGL\u002BnGkDqNP/6lIaTinrzCJe57qcorGcVlWGdV4nC5uMgIgqZ/7pzrCHF5WbXai3g3AObmPJ5eG8TCTsrQIDAQAB",
+    "Nonce": "a8ba600001389a7587673ac9",
+    "Timestamp": "2023-02-17T20:00:34Z",
+    "Signature": "42f71de0912b0b93555cd217438604b935ad999c23d848d2912b61de5fe94efc378c880196e8b5763005f449127c4eeabd29849ab6a4e0e35a7744d0af36f8d00fc84918f01cd9f6b4cd374c0c0c3c78bf9c522986985ad780e36b94ec7b28eb380108ec42986afe26b184e41c22467598eeb15bbbcbbe708dcb589a50d178e91370b8cc5e273bc104be976aac3bac36702fb616c08ae8b7d2d5e9c019cb6e6674c885218bcd20c6b68e7f93c6c8e51f148272273e94cb4336dcd2e551a8ed54d58ed0d5709d23a27f584b1a845fea9a178f65e4098138b0b527a88b16d4c865d88f1c139b9e98f222dd236bc73cb441f94d192d776a09dacb8ee47be332dac1"
+  },
+  "AgreedToTerms": true,
+  "ContentSha256": "33aaa5b0232e8221a298b345a9aba6e257ece228ee749bda326a922d4a51a88b",
+  "ContentToHash": "v1|gh:greenfootballs,mdon:@green_footballs@mastodon.social,post:green_footballs,t:green_footballs|2023-02-17T19:55:30Z"
+}
